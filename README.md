@@ -3,21 +3,23 @@ A deep learning-based rice classification model built using **TensorFlow** and *
 
 ## Python Dependencies:
 
-To set up the environment using **Anaconda**, follow these steps:
+To set up the environment using **Kaggle**, follow these steps:
 
 ```bash
 The following Python packages are required to run this project:
 
-- `tensorflow==2.18.0` 🧠
-- `opencv-python==4.11.0` 📷
-- `pandas==2.2.2` 📊
-- `scikit-learn==1.6.1` 📈
-- `matplotlib==3.10.0` 🎨
-- `tqdm==4.67.1` ⏳
-- `tensorflowjs==4.22.0` 🌐
+- `tensorflow==2.18.0` 🧠  
+- `opencv-python==4.11.0` 📷  
+- `opencv-python-headless==4.11.0.86` 🙈  
+- `pandas==2.2.2` 📊  
+- `scikit-learn==1.6.1` 📈  
+- `matplotlib==3.10.0` 🎨  
+- `tqdm==4.67.1` ⏳  
+- `gdown==5.2.0` ⬇️  
+- `tensorflowjs==4.22.0` 🌐 
 ```
-## Setup for Deployment
+## Setup for Javascript Deployment
 ```
-npm install -g http-server
+1. npm install -g http-server
+2. run index.html file
 ```
-
