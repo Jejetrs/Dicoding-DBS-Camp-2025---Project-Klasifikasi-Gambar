@@ -1,0 +1,13 @@
+tensorflow==2.18.0
+opencv-python==4.11.0
+pandas==2.2.2
+scikit-learn==1.6.1
+matplotlib==3.10.0
+tqdm==4.67.1
+tensorflowjs==4.22.0
+opencv-python-headless==4.11.0.86
+gdown==5.2.0
+
+
+#Setup for Deployment
+npm install -g http-server
